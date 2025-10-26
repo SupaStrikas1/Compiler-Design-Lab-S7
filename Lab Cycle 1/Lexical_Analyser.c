@@ -43,3 +43,13 @@ int main() {
     fclose(fp);
     return 0;
 }
+
+/*
+input.txt
+-------------------------
+void main()
+{
+	int num1, num2, num3;
+	num3 = num1/num2;
+}
+*/
